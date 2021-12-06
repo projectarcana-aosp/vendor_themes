@@ -9,7 +9,8 @@ PRODUCT_PACKAGES += \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
-    FontOneplusSlateSourceOverlay
+    FontOneplusSlateSourceOverlay \
+    FontCustomOverlay
 
 PRODUCT_PACKAGES += \
     ArbutusSlab-Regular.ttf \
