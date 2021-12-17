@@ -1,3 +1,7 @@
+# Stub
+PRODUCT_PACKAGES += \
+    ArcanaThemesStub
+
 # Fonts
 include vendor/themes/fonts.mk
 
