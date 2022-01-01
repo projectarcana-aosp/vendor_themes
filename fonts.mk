@@ -4,12 +4,13 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
 PRODUCT_PACKAGES += \
-    FontGoogleSansOverlay \
     FontInterOverlay \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
+    FontGInterOverlay \
+    FontHarmonySansOverlay \
     FontCustomOverlay
 
 PRODUCT_PACKAGES += \
